@@ -32,13 +32,13 @@ la deuxième partie concerne la simulation qui va simuler une dizaine d'utilisat
 ### Utilisation
 
 Lorsque vous exécutez le programme un menu s'ouvre:
--Simulation(va générer une 10 utilisateurs qui vont faire des simulations sur un dépôt et afficher les 10% des utilisateurs ayant écris, lus et recherchés les produits les plus cher)
--Application(Execution normal du programme ou on pourra se connecter/s'inscrire et ajouter/supprimer/afficher/modifier/rechercher un ou plusieurs produits sur un dépôt)
+- Simulation(va générer une 10 utilisateurs qui vont faire des simulations sur un dépôt et afficher les 10% des utilisateurs ayant écris, lus et recherchés les produits les plus cher)
+- Application(Execution normal du programme ou on pourra se connecter/s'inscrire et ajouter/supprimer/afficher/modifier/rechercher un ou plusieurs produits sur un dépôt)
 
 Dans ces deux cas, à la fin de l'exécution le programme génèrera les fichiers suivants:
--products.json : la liste des produits dans le dépôt
--read_actions_profiles.json : profils des utilisateurs ayant lu une ou plusieurs fois dans le dépôt
--write_actions_profiles.json : profils des utilisateurs ayant écrit une ou plusieurs fois dans le dépôt
--search_profiles.json : profils des utilisateurs ayant cherchés un ou plusieurs produits
--trace.json : trace de l'application suite à son exécution
--users.json : liste des utilisateurs inscrit sur l'application
+- products.json : la liste des produits dans le dépôt
+- read_actions_profiles.json : profils des utilisateurs ayant lu une ou plusieurs fois dans le dépôt
+- write_actions_profiles.json : profils des utilisateurs ayant écrit une ou plusieurs fois dans le dépôt
+- search_profiles.json : profils des utilisateurs ayant cherchés un ou plusieurs produits
+- trace.json : trace de l'application suite à son exécution
+- users.json : liste des utilisateurs inscrit sur l'application
